@@ -8,6 +8,7 @@ from datetime import datetime
 from covid import Covid
 import telebot
 from telebot import types
+import json
 
 
 bot = telebot.TeleBot(TOKEN)
