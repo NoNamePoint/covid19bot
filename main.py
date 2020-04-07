@@ -1,6 +1,6 @@
 
 import sys
-sys.path.append("D:\\projects_python\\COVIDBOT\\venv\\Lib\\site-packages")
+# sys.path.append("D:\\projects_python\\COVIDBOT\\venv\\Lib\\site-packages")
 
 from config import TOKEN
 from config import COUNTRIES

@@ -71,4 +71,4 @@ hiopia', 'Южная Африка': 'South Africa', 'Южная Джорджия
 d the South Sandwich Islands', 'Южная Осетия': 'South Ossetia', 'Южный Судан': 'South Sudan', 'Ямайка': 'J\
 amaica', 'Япония': 'Japan'}
 
-TOKEN = ""
+TOKEN = "1189710477:AAEllak3TaDCcCcrw-7WZ7zbjc1WahCZ2T8"
