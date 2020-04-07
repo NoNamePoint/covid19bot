@@ -63,7 +63,7 @@ istan', 'Украина': 'Ukraine', 'Уоллис и Футуна': 'Wallis and
 кие острова': 'Falkland Islands', 'Франция': 'France', 'Французская Гвиана': 'Fre\
 nch Guiana', 'Французская Полинезия': 'French Polynesia', 'Французские Южные территории': 'French Southern\
  Territories', 'Хорватия': 'Croatia', 'Центрально-Африканская Республика': 'Central African Republic', 'Ча\
-д': 'Chad', 'Черногория': 'Montenegro', 'Чехия': 'Czech', 'Чили': 'Chile', 'Швейцари\
+д': 'Chad', 'Черногория': 'Montenegro', 'Чили': 'Chile', 'Швейцари\
 я': 'Switzerland', 'Швеция': 'Sweden', 'Шпицберген': 'Svalbard', 'Шри-Ланка\
 ': 'Sri Lanka', 'Эквадор': 'Ecuador', 'Экваториальная Гвинея': 'Equatorial Guinea', 'Эландские острова': '\
 Aland Islands', 'Эль-Сальвадор': 'El Salvador', 'Эритрея': 'Eritrea', 'Эстония': 'Estonia', 'Эфиопия': 'Et\
