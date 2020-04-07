@@ -13,7 +13,7 @@ from telebot import types
 bot = telebot.TeleBot(TOKEN)
 covid = Covid()
 
-# print(covid.get_status_by_country_name(COUNTRIES["Россия"]))
+
 #
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
@@ -51,20 +51,4 @@ def get_data(message):
         bot_response = f"{all_cases}\n {recovered}\n {deaths}\n {last_update}"
     bot.send_message(message.chat.id, bot_response, parse_mode="html")
 
-
-
 bot.polling(none_stop=True)
-
-
-# if normalize_mess == "россия":
-#     data = covid.get_status_by_country_name(COUNTRIES['Россия'])
-# elif normalize_mess == "сша":
-#     data = covid.get_status_by_country_name(COUNTRIES['США'])
-# elif normalize_mess == "франция":
-#     data = covid.get_status_by_country_name(COUNTRIES['Франция'])
-# elif normalize_mess == "италия":
-#     data = covid.get_status_by_country_name(COUNTRIES['Италия'])
-# elif normalize_mess == "германия":
-#     data = covid.get_status_by_country_name(COUNTRIES['Германия'])
-# elif normalize_mess == "китай":
-#     data = covid.get_status_by_country_name(COUNTRIES['Китай'])
